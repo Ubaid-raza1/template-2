@@ -24,10 +24,12 @@ body {
 
 .links:hover {
     background-color: #fff;
+}
+.links:hover a {
     color: black;
 }
 
-.links2 {
+.links a {
     color: #fff;
 }
 
